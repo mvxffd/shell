@@ -12,9 +12,9 @@ LOG_FILE="/storage/emulated/0/LM日记.log"
 # 当前脚本版本号（与 VERSION 保持一致）
 SCRIPT_VERSION="5.0"
 # 脚本名称
-SCRIPT_NAME="ML_Toolbox"
+SCRIPT_NAME="LM_Toolbox"
 # GitHub 原始文件 URL（请替换为你的实际地址）
-GITHUB_RAW_URL="https://gh.kejilion.pro/https://github.com/mvxffd/shell/raw/refs/heads/main/%E7%BB%88%E6%9E%81%E7%89%88%E6%9C%AC.sh"
+GITHUB_RAW_URL="https://github.com/mvxffd/shell/raw/refs/heads/main/%E7%BB%88%E6%9E%81%E7%89%88%E6%9C%AC.sh"
 # 国内代理前缀（如无代理可留空）
 GH_PROXY="https://gh.kejilion.pro/"
 
